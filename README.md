@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prateek Gupta, Full Stack Developer with over 6 years of experience delivering end-to-end software products.
       Contributed to high revenue generating products at [**Paytm**](https://paytm.com/), [ [**Paymentus**](https://www.paymentus.com/) + [**Paxcom**](https://paxcom.ai/) ], [**SaaS Labs**](https://www.saaslabs.co/).
-      Implemented high-throughput services, Data Migration Pipelines, handled critical modules like **Identity & Payments**.
+      Implemented high-throughput services, Data Migration Workflows, handled sensitive modules like **Identity & Payments**.
       Revamped modules that achieved 100% client satisfaction.
   
 - 👀 I’m interested in creating Tech Blogs, Microservices, Database Optimization, Schema Design, System Design
