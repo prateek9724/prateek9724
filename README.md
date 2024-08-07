@@ -4,9 +4,11 @@
       Revamped modules that achieved 100% client satisfaction.
   
 - 👀 I’m interested in creating Tech Blogs, Microservices, Database Optimization, Schema Design, System Design
-- ✍️ My Blogs
+- ✍️ [My Blogs](https://medium.com/@prateek.9724) -
+     - **[Node.js Streams Made Easy]** - (https://medium.com/@prateek.9724/mastering-node-js-streams-a-simple-guide-by-prateek-gupta-2350761d7700)
      - **[Understanding Buffer in Node.js]** - https://medium.com/@prateek.9724/buffer-in-node-js-2fec3c8f6cc2
      - **[Quick understanding of CSR vs SSR]** - https://medium.com/@prateek.9724/csr-vs-ssr-1fa7635b7c53
+
 - 📫 Wanna connect ?  
      - **Email:** [prateek.9724@gmail.com](mailto:prateek.9724@gmail.com)
      - **LinkedIn:** [Prateek Gupta](https://www.linkedin.com/in/prateekgupta24)
